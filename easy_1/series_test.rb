@@ -1,5 +1,5 @@
 require 'minitest/autorun'
-require_relative 'series2'
+require_relative 'series3'
 
 class SeriesTest < Minitest::Test
   def test_simple_slices_of_one
